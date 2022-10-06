@@ -1,0 +1,10 @@
+{
+  "name": "giaco-gus",
+  "version": "1.0.0",
+  "description": "Amogus bot renamer for GiacoAV's discord server",
+  "main": "index.js",
+  "repository": "https://github.com/sikelio/giaco-gus.git",
+  "author": "Sik'",
+  "license": "MIT",
+  "private": false
+}
